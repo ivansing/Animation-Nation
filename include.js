@@ -6526,6 +6526,16 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  
+    
+    {
+      artName: 'Squaremetalrules',
+      pageLink: './Art/Ivansing-Art/index.html',
+      imageLink: './Art/Ivansing-Art/spiros-metal.gif',
+      author: 'Ivan',
+      githubLink: 'https://github.com/ivansing'
+    }
+  
 ];
 
 // +--------------------------------------------------------------------------------+
